@@ -29,3 +29,14 @@ public class GuessMyNumber {
     }
 }
 ```
+#### To run this code do the following
+- [x] Open your favorite text editor
+- [x] Create a java file named GuessMyNumber
+- [ ] Paste this code into file and save file
+- [ ] Open terminal with the directory location of the file and Type the following commands
+      ```
+      javac GuessMyNumber.java
+      java GuessMyNumber
+      ```
+    
+- [ ] Enjoy
